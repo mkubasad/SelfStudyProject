@@ -6,3 +6,5 @@ Well, here is the third line!
 
 
 Let us see what happens now.
+
+This line is added in the master branch.
